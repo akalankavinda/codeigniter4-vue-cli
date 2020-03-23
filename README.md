@@ -2,7 +2,7 @@
 Boilerplate for Codeigniter + Vue-cli projects
 
 
-# Before you Go
+### Read this Before you Go
 - This is a combination of two seperate projects
 - Codeigniter project is at the **root** directory
 - Vue-cli project is in the **/vue** directory
