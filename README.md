@@ -1,11 +1,6 @@
-# codeigniter4-vue-cli
+# Codeigniter4-Vue-cli
 Boilerplate for Codeigniter + Vue-cli projects
 
-# Codeigniter4-Vue-cli
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 # Before you Go
 - This is a combination of two seperate projects
