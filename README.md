@@ -29,8 +29,8 @@ $ npm install
 $ npm run watch
 ```
 - Now you are ready to go
-- ###### Browse http://localhost/%YOUR_PROJECT% to visit Codeigniter project
-- ###### Browse http://localhost/%YOUR_PROJECT%/spa to visit Vue-cli project
+- ###### Browse http://localhost/%YOUR_PROJECT%/public to visit Codeigniter project
+- ###### Browse http://localhost/%YOUR_PROJECT%/public/spa to visit Vue-cli project
 - ###### These two projects can communicate without **CORS** issues
 
 ### Contribute
