@@ -8,7 +8,7 @@ Quick start Boilerplate for Codeigniter + Vue-cli projects
 - This is a combination of two seperate projects
 - Codeigniter project is at the **root** directory
 - Vue-cli project is in the **/vue** directory
-- Main purpose of this repository to avoid **CORS** issues in development
+- Main purpose of this repository is to quick start a Codeigniter + Vue-cli project and avoid **CORS** issues in development
 
 ### Pre-Requirements
 - install **Xampp Server** or any similar php stack you are familiar with
