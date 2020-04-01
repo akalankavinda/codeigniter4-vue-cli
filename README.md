@@ -12,8 +12,8 @@ Quick start Boilerplate for Codeigniter + Vue-cli projects
 
 ### Pre-Requirements
 - install **Xampp Server** or any similar php stack you are familiar with
-- install **Node-js** 
-- install **Vue-cli**
+- install **Node-js** on your computer
+- install **Vue-cli** using node-js
 
 ### Setup guide
 Please follow these instructions to get started.
